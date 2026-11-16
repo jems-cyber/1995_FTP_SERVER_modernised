@@ -1,3 +1,2 @@
-# PSR_2026_jramesh
-
-blablabla
+Même si je n'aurai pas mis mon git en publique par égoisme, j'aurai préféré avoir le choix. 
+Les élèves qui recopient les yeux fermés de tt façon, ça se verra...
