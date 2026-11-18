@@ -1,0 +1,10 @@
+18/11/2026
+
+Uniquement des sources : non !! supprimez-moi ces objets et exécutables du GIT
+Hiérarchie répertoires : mouais, vous mettez les sources des bibliothèques où ?
+Makefile : non, un simple makefile global assez peu élégant, faites avec une hiérarchie de makefile
+Exercices 3.1 : rien
+Bibliothèques : rien
+Exécutables : une fonction vide
+
+Il va peut être falloir passer un peu plus de temps sur le projet ? Pourquoi en monôme ?
